@@ -1,0 +1,10 @@
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\bin\Debug\Form_Z06_4.exe.config
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\bin\Debug\Form_Z06_4.exe
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\bin\Debug\Form_Z06_4.pdb
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\obj\Debug\Form_Z06_4.csproj.AssemblyReference.cache
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\obj\Debug\Form_Z06_4.Form1.resources
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\obj\Debug\Form_Z06_4.Properties.Resources.resources
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\obj\Debug\Form_Z06_4.csproj.GenerateResource.cache
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\obj\Debug\Form_Z06_4.csproj.CoreCompileInputs.cache
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\obj\Debug\Form_Z06_4.exe
+C:\Users\Dmitryi Gick\source\repos\Form_Z06_4\Form_Z06_4\obj\Debug\Form_Z06_4.pdb
